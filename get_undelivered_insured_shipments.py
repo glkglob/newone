@@ -1,4 +1,4 @@
-import easypost
+import easyship
 import os
 import csv
 import argparse
